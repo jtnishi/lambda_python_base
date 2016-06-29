@@ -1,0 +1,4 @@
+# You should fill in this requirements.txt with all required
+# packages to be installed.  The packager script will take
+# care of making sure the required pip packages are installed
+# and put into the output zip file.
